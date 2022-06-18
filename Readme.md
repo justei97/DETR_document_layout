@@ -6,11 +6,11 @@
 Hello :)
 This is the Repository for the Detection Transformer
 see: https://github.com/facebookresearch/detr 
-To run the network you just need to execute [run_Detr.py](https://github.com/justei97/DETR_document_layout/blob/main/run_Detr.py)
-However, for a different dataset you need to change Paths in the [detr.py](https://github.com/justei97/DETR_document_layout/blob/main/detr.py) file (**line 18-20**) ![Text](https://github.com/justei97/DETR_document_layout/blob/main/change_path.JPG)  
+- To run the network you just need to execute [run_Detr.py](https://github.com/justei97/DETR_document_layout/blob/main/run_Detr.py)
+H-owever, for a different dataset you need to change Paths in the [detr.py](https://github.com/justei97/DETR_document_layout/blob/main/detr.py) file (**line 18-20**) ![Text](https://github.com/justei97/DETR_document_layout/blob/main/change_path.JPG)  
 for the dataloader and additionally the dataloader itself (depending on the desired dataset ofc.) Please note that the network will run on **GPU 0** as specified in line 15 ![Text](https://github.com/justei97/DETR_document_layout/blob/main/GPU0.JPG). If that is not available, you need to change it!
 
-Please find the commented version of the Code in the corresponding ipynb file (DETR.ipynb)
+-Please find the commented version of the Code in the corresponding ipynb file (DETR.ipynb)
 
 Hyperparameter Tuning can be also done with [run_Detr.py](https://github.com/justei97/DETR_document_layout/blob/main/run_Detr.py). You only need to adjust the arguments and do multiple runs :) 
 
