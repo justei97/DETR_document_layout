@@ -1,4 +1,4 @@
-# *****DE⫶TR: End-to-End Object Detection with Transformers*****
+# *****DETR: End-to-End Object Detection with Transformers*****
 
 ![Alt Text](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Screenshot-from-2020-05-27-20-04-48.png)
 
