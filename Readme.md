@@ -6,7 +6,7 @@
 Hello :)
 This is the Repository for the Detection Transformer
 see: https://github.com/facebookresearch/detr 
-To run the network you just need to execute [run_Detr.py](https://gropius.medien.uni-weimar.de/applied-deep-learning-for-computer-vision/detection-transformer/-/blob/main/run_Detr.py)
+To run the network you just need to execute [run_Detr.py](https://github.com/justei97/DETR_document_layout/blob/main/run_Detr.py)
 However, for a different dataset you need to change Paths in the [detr.py](https://gropius.medien.uni-weimar.de/applied-deep-learning-for-computer-vision/detection-transformer/-/blob/main/detr.py) file (**line 18-20**) ![Text](https://gropius.medien.uni-weimar.de/applied-deep-learning-for-computer-vision/detection-transformer/-/raw/main/change_path.JPG)  
 for the dataloader and additionally the dataloader itself (depending on the desired dataset ofc.) Please note that the network will run on **GPU 0** as specified in line 15 ![Text](https://gropius.medien.uni-weimar.de/applied-deep-learning-for-computer-vision/detection-transformer/-/raw/main/GPU0.JPG). If that is not available, you need to change it!
 
