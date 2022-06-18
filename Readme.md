@@ -32,8 +32,8 @@ Please have a look into [DETR.ipynb](https://github.com/justei97/DETR_document_l
 ####For inference purposes, the trained Model can be found at:
 [DETR_Trained]
 
-
-
+#### Inference 
+[Text](https://github.com/justei97/DETR_document_layout/blob/main/detr_test_inference.png)
 ```python
 
 ```
