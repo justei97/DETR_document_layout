@@ -34,7 +34,7 @@ Please have a look into [DETR.ipynb](https://github.com/justei97/DETR_document_l
 
 #### Inference 
 
-[Text](https://github.com/justei97/DETR_document_layout/blob/main/detr_test_inference.png)
+[Text](https://github.com/justei97/DETR_document_layout/blob/main/detr_test_inference.jpeg)
 
 
 ```python
